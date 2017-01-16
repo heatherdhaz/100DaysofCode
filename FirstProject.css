@@ -1,0 +1,53 @@
+h1{
+	font-family: 'Pacifico', cursive;
+	font-variant: small-caps;
+	color: brown;
+}
+
+h2{
+	font-family: 'Bungee Shade', cursive;
+	color: #00FF21;
+}
+
+h3{
+	font-family: 'Oswald', sans-serif;
+}
+
+h4{
+	font-family: serif;
+}
+
+p{
+	font-family: Comic sans;
+}
+
+main{
+	border: 5px solid yellow;
+}
+
+.AboutMe{
+	border: 2px dotted black;
+	width: 10%;
+	float: left;
+}
+
+.Education{
+	border: 3px dotted grey;
+}
+
+.WorkEx{
+	border: 3px dotted #f44242;
+}
+
+.Skills{
+	border: 3px dotted #343434;
+}
+
+.LinksWork{
+	border: 3px dotted #888888;
+}
+
+footer{
+	background-color: purple;
+	border: 10px solid black;
+}
