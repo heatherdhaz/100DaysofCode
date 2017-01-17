@@ -21,33 +21,75 @@ p{
 	font-family: Comic sans;
 }
 
+header{
+	border: 2px solid green;
+}
+
 main{
 	border: 5px solid yellow;
+	height: 1000px;
+	width: 100%;
+}
+
+.LeftMainColumn{
+	border: 2px dash crimson;
+	width: 15%;
+	position: absolute;
+	left: 15px;
 }
 
 .AboutMe{
 	border: 2px dotted black;
-	width: 10%;
-	float: left;
+	position: absolute;
+}
+
+.RightMainColumn{
+	border: 2px dash orange;
+	width: 80%;
+	position: absolute;
+	right: 10px;
 }
 
 .Education{
 	border: 3px dotted grey;
+	background: lightgrey;
 }
 
 .WorkEx{
 	border: 3px dotted #f44242;
+	background: lightgrey;
 }
 
 .Skills{
 	border: 3px dotted #343434;
+	background: lightgrey;
 }
 
 .LinksWork{
 	border: 3px dotted #888888;
+	background: lightgrey;
 }
 
 footer{
-	background-color: purple;
 	border: 10px solid black;
+	background-color: purple;
+	line-height: 75%;
+}
+
+#PortfolioTags{
+	font-family: Comic Sans;
+	font-size: 14px;
+	font-weight: bold;
+	background-color: #88AAFF;
+	width: 550px;
+	height: 35px;
+}
+
+#PortfolioTags ul{
+	height: auto;
+	margin: 0px;
+}
+
+#PortfolioTags li{
+	color: lightgrey;
 }
