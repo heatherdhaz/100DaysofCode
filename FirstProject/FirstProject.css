@@ -1,5 +1,6 @@
 body{
-	background-image: url(https://subtlepatterns.com/pink-rice/patterns/pink_rice.png) repeat 10px 10px #000000;
+	/* pattern used ... made by Irfan iLias  https://subtlepatterns.com/symphony/ */
+	background: #FFFFFF url('img/symphony.png') repeat;
 }
 
 h1{
@@ -23,6 +24,7 @@ h4{
 
 p{
 	font-family: Comic sans;
+	padding: 0px 10px 0px 10px;
 }
 
 header{
@@ -35,13 +37,14 @@ header{
 
 main{
 	border: 5px solid yellow;
-	height: 1000px;
 	width: 100%;
+	overflow: both;
 }
 
 .LeftMainColumn{
+	background: gold;
 	border: 2px dash crimson;
-	width: 15%;
+	width: 18%;
 	position: relative;
 	left: 0px;
 }
@@ -56,9 +59,10 @@ main{
 .RightMainColumn{
 	border: 2px dash orange;
 	border-radius: 30px;
-	width: 85%;
+	width: 78%;
 	position: relative;
-	left: 15%;
+	left: 20%;
+	padding-left: 15px;
 }
 
 .Education{
@@ -84,11 +88,14 @@ main{
 footer{
 	border: 10px solid black;
 	background-color: purple;
+	width: 98%;
 	line-height: 75%;
+	text-align: center;
+	font-family: ;
 }
 
 #PortfolioTags{
-	font-family: Comic Sans;
+	font-family: 'Aclonica', sans-serif;
 	font-size: 14px;
 	font-weight: bold;
 	background-color: #88AAFF;
@@ -111,4 +118,12 @@ footer{
 	display: inline-block;
 	margin-right: 10px;
 	margin-left: 10px;
+}
+
+.EducationDate{
+	font-family: 'Aclonica', sans-serif;
+}
+
+.WorkExDate{
+	text-decoration: underline;
 }
