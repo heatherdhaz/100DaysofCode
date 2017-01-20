@@ -21,3 +21,8 @@ Fixed the image, changed margins, fixed the header and nav bar area. More tweaki
 Day 4 - Jan 18, 2017
 Project: Class Project - Redesign the Holstee Manifesto in HTML & CSS
 This was more than 1 hour, but so good as it stretched my memory and researching skills. I'm happy with how it turned out, may go back to it in the future to see if I can "fix' a few things.
+
+Day 5 - Jan 19, 2017
+Project: 1st - Portfolio website
+I did some fixing of links and tags, moved files to folders.
+Not too much done again, but I continue to learn from mistakes, while making new ones.
