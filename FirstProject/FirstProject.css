@@ -1,6 +1,7 @@
 body{
 	/* pattern used ... made by Irfan iLias  https://subtlepatterns.com/symphony/ */
 	background: #FFFFFF url('img/symphony.png') repeat;
+	width: 1000px;
 }
 
 h1{
@@ -11,7 +12,7 @@ h1{
 
 h2{
 	font-family: 'Bungee Shade', cursive;
-	color: #00FF21;
+	color: olive;
 }
 
 h3{
@@ -23,8 +24,23 @@ h4{
 }
 
 p{
-	font-family: Comic sans;
+	font-family: "Comic Sans MS", cursive, sans-serif;
 	padding: 0px 10px 0px 10px;
+}
+
+a{
+	text-decoration: none;
+}
+
+a:link {
+	color: blue;
+	background-color: white;
+	text-decoration: none;
+}
+
+a:hover{
+	color: purple;
+	background-color: black;
 }
 
 header{
@@ -78,6 +94,7 @@ main{
 .Skills{
 	border: 3px dotted #343434;
 	background: lightgrey;
+
 }
 
 .LinksWork{
@@ -88,10 +105,17 @@ main{
 footer{
 	border: 10px solid black;
 	background-color: purple;
-	width: 98%;
+	width: 99%;
+	height: 125px;
+	text-align: left;
+
+}
+
+footer p{
 	line-height: 75%;
-	text-align: center;
-	font-family: ;
+	font-size: 14px;
+	font-weight: bolder;
+	color: white;
 }
 
 #PortfolioTags{
@@ -126,4 +150,10 @@ footer{
 
 .WorkExDate{
 	text-decoration: underline;
+}
+
+.empty1{
+	width: 333px;
+	float: left;
+	color: orange;
 }
