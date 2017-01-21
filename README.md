@@ -26,3 +26,8 @@ Day 5 - Jan 19, 2017
 Project: 1st - Portfolio website
 I did some fixing of links and tags, moved files to folders.
 Not too much done again, but I continue to learn from mistakes, while making new ones.
+
+Day 6 - Jan 20, 2017
+Project: 1st - Portfolio website
+Added different link attributes for static and hover states, messed around with the footer, added links to sections of the document from the navbar.
+It was great remembering how to change the links.
