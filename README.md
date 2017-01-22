@@ -31,3 +31,7 @@ Day 6 - Jan 20, 2017
 Project: 1st - Portfolio website
 Added different link attributes for static and hover states, messed around with the footer, added links to sections of the document from the navbar.
 It was great remembering how to change the links.
+
+Day 7 - Jan 21, 2017
+Project: Class Project - Portfolio HTML
+Build up the content and tags for an HTML file from the ground up. Will be working on the CSS tomorrow.
