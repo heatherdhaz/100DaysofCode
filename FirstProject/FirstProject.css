@@ -55,6 +55,7 @@ main{
 	border: 5px solid yellow;
 	width: 100%;
 	overflow: both;
+	background: white;
 }
 
 .LeftMainColumn{
@@ -73,7 +74,8 @@ main{
 }
 
 .RightMainColumn{
-	border: 2px dash orange;
+	border: 10px dash orange;
+	border-image: url("img/cupcake-4-4.png") 10px 10px repeat;
 	border-radius: 30px;
 	width: 78%;
 	position: relative;
@@ -152,8 +154,16 @@ footer p{
 	text-decoration: underline;
 }
 
-.empty1{
-	width: 333px;
-	float: left;
+.full-width{
+	width: 100%;
+}
+
+.half-width{
+	width: 50%;
+}
+
+.third-width{
+	width: 33%;
+/**	float: left;**/
 	color: orange;
 }
