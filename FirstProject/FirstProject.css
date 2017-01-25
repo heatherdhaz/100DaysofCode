@@ -43,13 +43,60 @@ a:hover{
 	background-color: black;
 }
 
+/** Configure Div widths **/
+
+.full-width{
+	width: 100%;
+}
+
+.half-width{
+	width: 50%;
+}
+
+.third-width{
+	width: 33%;
+	color: orange;
+}
+
+/****  Start the Styling for Contect  ****/
+
+/** Header **/
+
 header{
 	border: 2px solid green;
 	width: 100%;
 	text-align: center;
-	background-color: #99ccff;
+	background-color: #f0f1e2;
 	border-radius: 30px 30px 0px 0px;
 }
+
+nav{
+	font-family: 'Aclonica', sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	background-color: #e0b2a9;
+	width: 100%;
+	height: 35px;
+	margin: auto;
+	text-align: center;
+}
+
+nav ul{
+	height: auto;
+	padding: 8px 0px;
+	margin: 0px;
+	list-style-type: none;
+	align-items: center;
+}
+
+nav li{
+	color: black;
+	display: inline-block;
+	margin-right: 10px;
+	margin-left: 10px;
+}
+
+/*** Main Body ***/
 
 main{
 	border: 5px solid yellow;
@@ -85,32 +132,32 @@ main{
 
 .Education{
 	border: 3px dotted grey;
-	background: lightgrey;
+	background: #e57e93;
 }
 
 .WorkEx{
 	border: 3px dotted #f44242;
-	background: lightgrey;
+	background: #f1ebc5;
 }
 
 .Skills{
 	border: 3px dotted #343434;
-	background: lightgrey;
+	background: #e57e93;
 
 }
 
 .LinksWork{
 	border: 3px dotted #888888;
-	background: lightgrey;
+	background: #f1ebc5;
 }
 
 footer{
 	border: 10px solid black;
-	background-color: purple;
-	width: 99%;
+	background-color: #83675f;
+	width: 100%;
 	height: 125px;
 	text-align: left;
-
+	margin: 0px;
 }
 
 footer p{
@@ -120,50 +167,10 @@ footer p{
 	color: white;
 }
 
-#PortfolioTags{
-	font-family: 'Aclonica', sans-serif;
-	font-size: 14px;
-	font-weight: bold;
-	background-color: #88AAFF;
-	width: 100%;
-	height: 35px;
-	margin: auto;
-	text-align: center;
-}
-
-#PortfolioTags ul{
-	height: auto;
-	padding: 8px 0px;
-	margin: 0px;
-	list-style-type: none;
-	align-items: center;
-}
-
-#PortfolioTags li{
-	color: black;
-	display: inline-block;
-	margin-right: 10px;
-	margin-left: 10px;
-}
-
 .EducationDate{
 	font-family: 'Aclonica', sans-serif;
 }
 
 .WorkExDate{
 	text-decoration: underline;
-}
-
-.full-width{
-	width: 100%;
-}
-
-.half-width{
-	width: 50%;
-}
-
-.third-width{
-	width: 33%;
-/**	float: left;**/
-	color: orange;
 }
