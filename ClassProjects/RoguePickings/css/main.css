@@ -1,0 +1,131 @@
+body {
+	font-family: 'Martel Sans', sans-serif;
+}
+
+.full-width{
+	width: 1200px;
+    margin: 0 auto;
+    height: 100%;
+}
+
+.half-width{
+	width: 600px;
+	float: left;
+}
+
+.third-width{
+	width: 400px;
+	float: left;
+}
+
+h1, h2, h3, h4, h5{
+	text-transform: uppercase;
+}
+
+h4{
+	font-weight: bold;
+}
+
+p{
+	font-family: 'Montserrat', sans-serif;
+}
+
+.Specials, .Reviews, .Contact{
+	border: 1px solid lightgrey;
+	padding: 15px;
+	height: 200px;
+}
+
+/*** Header ****/
+
+header{
+	height: 75px;
+}
+
+#Rogue{
+	color:#77A466;
+}
+
+nav {
+	text-transform: uppercase;
+	padding-top: 25px;
+}
+
+nav ul li{
+	display: inline-block;
+}
+
+nav ul li a{
+	text-decoration: none;
+	color: #77A466;
+	padding-left: 10px;
+}
+
+/*** Content ***/
+
+.Welcome{
+	margin: 20px 0px 10px 0px;
+}
+
+#welcome-img{
+    border-top: 5px solid #77A466;
+    border-bottom: 5px solid #77A466;
+
+}
+
+.Welcome h2{
+	color: #77A466;
+}
+
+/*** 3 - Main Section ***/
+
+.Other{
+	width: 1200px;
+	height: 200px;
+}
+
+.Specials{
+	margin: 0px;
+	border-left: 0;
+}
+
+.Specials ul{
+	list-style: none;
+	padding-left: 0;
+}
+
+.Specials ul li{
+	color: #77A466;
+}
+
+.Reviews{
+	margin: 0px;
+}
+
+.Contact{
+	margin: 0px;
+	border-right: 0;
+
+}
+
+/*** Footer ***/
+
+footer{
+	margin-top: 10px;
+	text-align: center;
+	padding-top: 20px;
+	height: 50px;
+	width: 1200px;
+}
+
+#Power{
+	text-transform: uppercase;
+	font-weight: bold;
+	padding: 20px 0px;
+}
+
+#fresh{
+	font-family: 'Pinyon Script', cursive;
+	color: #77A466;
+	text-transform: none;
+}
