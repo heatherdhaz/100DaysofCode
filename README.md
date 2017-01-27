@@ -38,8 +38,12 @@ Build up the content and tags for an HTML file from the ground up. Will be worki
 
 Day 8 - Jan 23, 2017
 Project: Class Project - Portfolio
-Added a couple of section tags, renamed some divs,. - Also madea mistake when committing with the wrong day, should be Day 8 not Day 6.
+Added a couple of section tags, renamed some divs,. - Also made a mistake when committing with the wrong day, should be Day 8 not Day 6.
 
 Day 9 - Jan 24, 2017
-Project: Class Project - Portfolio
+Project: Portfolio Project
 Added new colours, fixed more HTML and CSS id's, added some comments to the code for better organizing.
+
+Day 10 - Jan 26, 2017
+Project: Class Project - Rogue
+Rebuild a website from an image. The project was a PSD to HTML, but I don't have PSD so unable to get exacts only estimates. I think I did pretty good, I guess I'll see. I was a great exercise.
