@@ -51,10 +51,12 @@ a:hover{
 
 .half-width{
 	width: 50%;
+	float: left;
 }
 
 .third-width{
 	width: 33%;
+	float: left;
 	color: orange;
 }
 
@@ -113,6 +115,8 @@ main{
 	left: 0px;
 }
 
+/*** About Section ***/
+
 .AboutMe{
 	border: 2px dotted black;
 	position: absolute;
@@ -130,26 +134,55 @@ main{
 	padding-left: 15px;
 }
 
+/*** Education Section ***/
+
 .Education{
 	border: 3px dotted grey;
 	background: #e57e93;
 }
+
+.EducationEntry{
+	border: 1px solid black;
+}
+
+.EducationDate{
+	font-family: 'Aclonica', sans-serif;
+}
+
+/*** Work Section ***/
 
 .WorkEx{
 	border: 3px dotted #f44242;
 	background: #f1ebc5;
 }
 
+.WorkEntry{
+	border: 1px solid black;
+}
+
+.WorkExDate{
+	text-decoration: underline;
+}
+
+/*** Skills Section ***/
+
 .Skills{
 	border: 3px dotted #343434;
 	background: #e57e93;
-
 }
+
+.SkillsEntry{
+	border: 1px solid black;
+}
+
+/*** Links Section ***/
 
 .LinksWork{
 	border: 3px dotted #888888;
 	background: #f1ebc5;
 }
+
+/*** Footer ***/
 
 footer{
 	border: 10px solid black;
@@ -161,16 +194,8 @@ footer{
 }
 
 footer p{
-	line-height: 75%;
+	line-height: 125%;
 	font-size: 14px;
 	font-weight: bolder;
 	color: white;
-}
-
-.EducationDate{
-	font-family: 'Aclonica', sans-serif;
-}
-
-.WorkExDate{
-	text-decoration: underline;
 }
