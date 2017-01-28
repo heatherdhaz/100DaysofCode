@@ -47,3 +47,8 @@ Added new colours, fixed more HTML and CSS id's, added some comments to the code
 Day 10 - Jan 26, 2017
 Project: Class Project - Rogue
 Rebuild a website from an image. The project was a PSD to HTML, but I don't have PSD so unable to get exacts only estimates. I think I did pretty good, I guess I'll see. I was a great exercise.
+
+
+Day 11 - Jan 27, 2017
+Project: Portfolio Project
+Added tags and border, still trying to figure out what else to do for it, until I get further.
