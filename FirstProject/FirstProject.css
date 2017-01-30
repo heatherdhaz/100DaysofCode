@@ -1,13 +1,16 @@
 body{
 	/* pattern used ... made by Irfan iLias  https://subtlepatterns.com/symphony/ */
 	background: #FFFFFF url('img/symphony.png') repeat;
-	width: 1000px;
+	width: 95%;
+	margin: 0px;
+	padding: 2%;
 }
 
 h1{
 	font-family: 'Pacifico', cursive;
 	font-variant: small-caps;
-	color: brown;
+	color: #404040;
+	margin: 15px 0px;
 }
 
 h2{
@@ -17,6 +20,7 @@ h2{
 
 h3{
 	font-family: 'Oswald', sans-serif;
+	text-decoration: underline;
 }
 
 h4{
@@ -26,6 +30,7 @@ h4{
 p{
 	font-family: "Comic Sans MS", cursive, sans-serif;
 	padding: 0px 10px 0px 10px;
+	color: #343434;
 }
 
 a{
@@ -47,6 +52,7 @@ a:hover{
 
 .full-width{
 	width: 100%;
+	display: inline;
 }
 
 .half-width{
@@ -65,7 +71,7 @@ a:hover{
 /** Header **/
 
 header{
-	border: 2px solid green;
+	border: 5px solid #e0b2a9;
 	width: 100%;
 	text-align: center;
 	background-color: #f0f1e2;
@@ -79,8 +85,8 @@ nav{
 	background-color: #e0b2a9;
 	width: 100%;
 	height: 35px;
-	margin: auto;
 	text-align: center;
+	padding-top: 10px;
 }
 
 nav ul{
@@ -92,7 +98,7 @@ nav ul{
 }
 
 nav li{
-	color: black;
+	color: #f1ebc5;
 	display: inline-block;
 	margin-right: 10px;
 	margin-left: 10px;
@@ -101,15 +107,12 @@ nav li{
 /*** Main Body ***/
 
 main{
-	border: 5px solid yellow;
+	border: 5px solid #e0b2a9;
 	width: 100%;
-	overflow: both;
 	background: white;
 }
 
 .LeftMainColumn{
-	background: gold;
-	border: 2px dash crimson;
 	width: 18%;
 	position: relative;
 	left: 0px;
@@ -118,16 +121,12 @@ main{
 /*** About Section ***/
 
 .AboutMe{
-	border: 2px dotted black;
 	position: absolute;
 	text-align: center;
-	padding: 5px;
+	padding: 15px;
 }
 
 .RightMainColumn{
-	border: 10px dash orange;
-	border-image: url("img/cupcake-4-4.png") 10px 10px repeat;
-	border-radius: 30px;
 	width: 78%;
 	position: relative;
 	left: 20%;
@@ -137,12 +136,11 @@ main{
 /*** Education Section ***/
 
 .Education{
-	border: 3px dotted grey;
 	background: #e57e93;
+	padding: 10px;
 }
 
 .EducationEntry{
-	border: 1px solid black;
 }
 
 .EducationDate{
@@ -152,12 +150,11 @@ main{
 /*** Work Section ***/
 
 .WorkEx{
-	border: 3px dotted #f44242;
 	background: #f1ebc5;
+	padding: 10px;
 }
 
 .WorkEntry{
-	border: 1px solid black;
 }
 
 .WorkExDate{
@@ -167,25 +164,24 @@ main{
 /*** Skills Section ***/
 
 .Skills{
-	border: 3px dotted #343434;
 	background: #e57e93;
+	padding: 10px;
 }
 
 .SkillsEntry{
-	border: 1px solid black;
 }
 
 /*** Links Section ***/
 
 .LinksWork{
-	border: 3px dotted #888888;
 	background: #f1ebc5;
+	padding: 10px;
 }
 
 /*** Footer ***/
 
 footer{
-	border: 10px solid black;
+	border: 5px solid #e0b2a9;
 	background-color: #83675f;
 	width: 100%;
 	height: 125px;
