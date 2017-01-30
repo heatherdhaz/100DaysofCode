@@ -52,3 +52,8 @@ Rebuild a website from an image. The project was a PSD to HTML, but I don't have
 Day 11 - Jan 27, 2017
 Project: Portfolio Project
 Added tags and border, still trying to figure out what else to do for it, until I get further.
+
+Day 12 - Jan 29, 2017
+Project: Profolio/Resume Project
+I will call this Cupcake Resume Project, because its for a cupcake. I believe I have one more day for ver 1.
+Today I fixed up the borders, added padding, removed tags that were redundant, it looks a whole lot better now. A lot cleaner, but that footer is getting the best of me. That will be tomorrows work.
