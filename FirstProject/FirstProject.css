@@ -2,7 +2,7 @@ body{
 	/* pattern used ... made by Irfan iLias  https://subtlepatterns.com/symphony/ */
 	background: #FFFFFF url('img/symphony.png') repeat;
 	width: 95%;
-	margin: 0px;
+	max-width: 1000px;
 	padding: 2%;
 }
 
@@ -37,16 +37,16 @@ a{
 	text-decoration: none;
 }
 
-a:link {
-	color: blue;
-	background-color: white;
+a:link, a:visited {
+	color: #83675f;
+	text-shadow: 2px 2px 10px rgba(255, 255, 255, 1);
 	text-decoration: none;
 }
 
-a:hover{
+a:hover, a:active{
 	color: purple;
-	background-color: black;
 }
+
 
 /** Configure Div widths **/
 
@@ -62,8 +62,8 @@ a:hover{
 
 .third-width{
 	width: 33%;
+	height: 250px;
 	float: left;
-	color: orange;
 }
 
 /****  Start the Styling for Contect  ****/
@@ -112,13 +112,14 @@ main{
 	background: white;
 }
 
+
+/*** About Section ***/
+
 .LeftMainColumn{
-	width: 18%;
+	width: 20%;
 	position: relative;
 	left: 0px;
 }
-
-/*** About Section ***/
 
 .AboutMe{
 	position: absolute;
@@ -126,11 +127,12 @@ main{
 	padding: 15px;
 }
 
+/*** Main Content **/
+
 .RightMainColumn{
-	width: 78%;
+	width: 80%;
 	position: relative;
 	left: 20%;
-	padding-left: 15px;
 }
 
 /*** Education Section ***/
@@ -194,4 +196,8 @@ footer p{
 	font-size: 14px;
 	font-weight: bolder;
 	color: white;
+}
+
+a#toplink link{
+	color: black;
 }
