@@ -57,3 +57,8 @@ Day 12 - Jan 29, 2017
 Project: Profolio/Resume Project
 I will call this Cupcake Resume Project, because its for a cupcake. I believe I have one more day for ver 1.
 Today I fixed up the borders, added padding, removed tags that were redundant, it looks a whole lot better now. A lot cleaner, but that footer is getting the best of me. That will be tomorrows work.
+
+Day 13 - Jan 30, 2017
+Project: Portfolio/Resume Project
+Project Cupcake Resume ver1 is getting more polished. Still a few more things to finish off.
+I'll be glad when I complete this part of it. Not perfect but, it is something.
