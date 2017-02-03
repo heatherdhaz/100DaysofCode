@@ -14,8 +14,8 @@ h1{
 }
 
 h2{
-	font-family: 'Bungee Shade', cursive;
-	color: olive;
+	font-family: 'Indie Flower', cursive;
+	color: #83675f;
 }
 
 h3{
@@ -198,6 +198,7 @@ footer p{
 	color: white;
 }
 
-a#toplink link{
-	color: black;
+#toplink{
+	color: #e57e93;
+	text-shadow: none;
 }
