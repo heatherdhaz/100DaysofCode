@@ -67,3 +67,8 @@ Day 14 - Jan 31- Feb 2, 2017
 Project: Cupcake Resume Project
 Deleted a couple more redundant pieces of code, fixed some colours, but I have noticed the odd empty space below my footer, still need to fix it. I have also added a couple pieces of content to the Job Section, make it a little more uniform.
 I haven't been able to really work on this between the course and just not feeling awake enough, but I'm pressing forward and onward.
+
+Day 15 - Feb 3, 2017
+Project: Cupcake Resume Project/ School Project - Open Mind
+Oh boy, I just just stop instead of adding things to it. Ha ha ha. After learning a couple of things I want to add some it into my Cupcake Project.
+I will update later.

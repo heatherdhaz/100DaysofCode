@@ -4,6 +4,7 @@ body{
 	width: 95%;
 	max-width: 1000px;
 	padding: 2%;
+    height: 100%;
 }
 
 h1{
@@ -202,3 +203,7 @@ footer p{
 	color: #e57e93;
 	text-shadow: none;
 }
+
+/** Media Sizes **/
+
+/** Phone Devices **/
