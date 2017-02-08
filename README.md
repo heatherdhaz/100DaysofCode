@@ -72,3 +72,8 @@ Day 15 - Feb 3, 2017
 Project: Cupcake Resume Project/ School Project - Open Mind
 Oh boy, I just just stop instead of adding things to it. Ha ha ha. After learning a couple of things I want to add some it into my Cupcake Project.
 I will update later.
+
+Day 16 - Feb 4 - 7 2017
+Project: Open Mind Closed Mouth - Class Project
+:S I have spent way too much time on this project, it has been challenging. I must admit there were a couple of things that  really had to find an answer to. Then there was the issue of the really dumb indent on last part.
+So glad that its over, but it was so frustrating how long it took me.
