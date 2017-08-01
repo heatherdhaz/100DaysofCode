@@ -1,5 +1,5 @@
 
-# 100DaysofCode
+# 100DaysofCode - Ended - Restarting Aug 1 2017
 Log of my journey for the 100DaysofCode Challenge.
 
 
@@ -78,3 +78,5 @@ Day 16 - Feb 4 - 7 2017
 Project: Open Mind Closed Mouth - Class Project
 :S I have spent way too much time on this project, it has been challenging. I must admit there were a couple of things that  really had to find an answer to. Then there was the issue of the really dumb indent on last part.
 So glad that its over, but it was so frustrating how long it took me.
+
+This challenge has ended, I will restart on Aug 1 2017.
